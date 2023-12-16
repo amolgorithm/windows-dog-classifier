@@ -26,7 +26,7 @@ Welcome to the Dog Classifier app, your go-to destination for predicting dog bre
 - **TensorFlow**
 - **NumPy**
   
- You can install them using the provided `requirements.txt` file.
+ You can install them using the provided `py_module_requirements.txt` file.
  ```
- pip install -r requirements.txt
+ pip install -r py_module_requirements.txt
  ```
