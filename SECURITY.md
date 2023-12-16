@@ -9,10 +9,29 @@ currently being supported with security updates.
 | ------- | ------------------ |
 | 1.0x   | :white_check_mark: |
 
+
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+If you believe you have found a security vulnerability, please follow these steps:
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+1. Do not disclose the vulnerability publicly.
+2. Report the vulnerability to the project maintainers privately.
+3. Provide detailed information about the vulnerability, including steps to reproduce if possible.
+4. Wait for confirmation from the maintainers before proceeding with any further steps.
+
+## Supported Versions
+
+Only the latest version of the project is actively maintained and receives security updates. Ensure you are using the most recent release before reporting a vulnerability.
+
+## Security Updates
+
+Security updates will be released as quickly as possible after the vulnerability has been identified, assessed, and a fix is available.
+
+## Responsible Disclosure
+
+Please practice responsible disclosure when reporting security issues. The maintainers will do their best to acknowledge and address reported vulnerabilities promptly.
+
+## Scope
+
+This security policy only applies to the code and repositories maintained under the "Windows Dog Classifier" project. Issues outside the scope of this project may not receive a response.
+
