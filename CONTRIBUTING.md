@@ -41,6 +41,6 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 ## License
 
-By contributing to this project, you agree that your contributions will be licensed under the [GPL 3.0 License](LICENSE).
+By contributing to this project, you agree that your contributions will be licensed under the [GPL-3.0 License](LICENSE).
 
 Thank you for contributing to Windows Dog Classifier!
